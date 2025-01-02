@@ -47,9 +47,9 @@
 
 
 <!-- Email Icon -->
-<a href="mailto:bhumikasigadapu3@gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Email_icon.svg" alt="Email" height="30" width="40" />
-</a>
+<a href="mailto:bhumikasigadapu3@gmail.com" target="blank"> 📧 </a>
+
+<a href="https://responsiveportfolio-bhumi.netlify.app/" target="blank"> 🌐 </a>
 
 
 </p>
