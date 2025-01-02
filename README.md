@@ -15,7 +15,7 @@
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on **Virtual Pet Simulator**
+- 🔭 I’m currently working on **Virtual Pet Simulator** 
 
 - 🌱 I’m currently learning **DSA, Secure software Engineering and Full stack web development**
 
@@ -27,6 +27,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FVrNAU-BmIAZhklEHfYrB7xzz-p5tkTO/view?usp=sharing](https://drive.google.com/file/d/1FVrNAU-BmIAZhklEHfYrB7xzz-p5tkTO/view?usp=sharing)
 
+- ⚡ Fun Fact: **I'm participating in #6Companies30dayschallenge conducted by Arsh Goyal!**
+
 ---
 
 ## 💼 My projects: 
@@ -36,6 +38,7 @@
 | **EventureX**           | An Event and Club management system for a university (A team project) | Python, React, Flask, Bootstrap          | Completed |  
 | **My Portfolio**             | A website to showcase my projects and skills | SASS, Javascript, HTML  | Completed |  
 | **Quantum cryptanalysis of affine cipher(Research paper)** |  Simulation of modular arithmetic and Grover's search for breaking affine ciphers  | Python, Algorithm Optimization, Qiskit, LateX, Google cloud           | Completed   |  
+
 
 ---
 
