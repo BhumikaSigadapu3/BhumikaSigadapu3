@@ -6,7 +6,7 @@
 # 💻< Bhumika Sigadapu />
 ## 👋 Welcome to My GitHub
 
-<h3 align="center">Hi 👋, I'm I'm a second-year B.Tech Computer Science and Engineering student specializing in Cybersecurity at the Indian Institute of Information Technology Kottayam. I'm passionate about using technology to tackle real-world challenges and drive impactful open-source contributions.</h3>
+<h3 align="center">Hi✨ , I'm a second-year B.Tech Computer Science and Engineering student specializing in Cybersecurity at the Indian Institute of Information Technology Kottayam. I'm passionate about using technology to tackle real-world challenges and drive impactful open-source contributions.</h3>
 <h6 align="center">A passionate Software Developer</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumikasigadapu3&label=Profile%20views&color=0e75b6&style=flat" alt="bhumikasigadapu3" /> </p>
