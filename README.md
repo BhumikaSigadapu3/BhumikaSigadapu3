@@ -31,11 +31,11 @@
 
 ## 💼 Projects & Contributions
 
-| Project Name                 | Description                                  | Tech Stack               | Status      |   |
-| ---------------------------- | -------------------------------------------- | ------------------------ | ----------- | - |
-| **EventureX**           | An Event and Club management system for a university (A team project) | Python, React, Flask, Bootstrap          | Completed |   |
-| **My Portfolio**             | A website to showcase my projects and skills | SASS, Javascript, HTML  | Completed |   |
-| **Quantum cryptanalysis of affine cipher(Research paper)** |  Simulation of modular arithmetic and Grover's search for breaking affine ciphers  | Python, Algorithm Optimization, Qiskit, LateX, Google cloud           | Completed   |   |
+| Project Name                 | Description                                  | Tech Stack               | Status      |  
+| ---------------------------- | -------------------------------------------- | ------------------------ | ----------- | 
+| **EventureX**           | An Event and Club management system for a university (A team project) | Python, React, Flask, Bootstrap          | Completed |  
+| **My Portfolio**             | A website to showcase my projects and skills | SASS, Javascript, HTML  | Completed |  
+| **Quantum cryptanalysis of affine cipher(Research paper)** |  Simulation of modular arithmetic and Grover's search for breaking affine ciphers  | Python, Algorithm Optimization, Qiskit, LateX, Google cloud           | Completed   |  
 
 ---
 
@@ -44,6 +44,17 @@
 <p align="left">
 <a href="https://linkedin.com/in/bhumika sigadapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhumika sigadapu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bhumika_sigadapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhumika_sigadapu" height="30" width="40" /></a>
+
+
+<a href="mailto:bhumikasigadapu3@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="your-email@example.com" height="30" width="40" />
+</a>
+
+
+<a href="https://responsiveportfolio-bhumi.netlify.app/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="30" width="40" />
+</a>
+
 </p>
 
 ---
