@@ -29,7 +29,7 @@
 
 ---
 
-## 💼 Projects & Contributions
+## 💼 My projects: 
 
 | Project Name                 | Description                                  | Tech Stack               | Status      |  
 | ---------------------------- | -------------------------------------------- | ------------------------ | ----------- | 
@@ -40,19 +40,13 @@
 ---
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bhumika sigadapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhumika sigadapu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bhumika_sigadapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhumika_sigadapu" height="30" width="40" /></a>
+## 🌐 Connect with me: 
 
 
-<!-- Email Icon -->
-<a href="mailto:bhumikasigadapu3@gmail.com" target="blank"> 📧 </a>
+- 💼 LinkedIn: [linkedin.com/in/Bhumika](https://www.linkedin.com/in/bhumika-sigadapu-44b34a280/)
+- 🌐 Portfolio: [portfolio.com](https://responsiveportfolio-bhumi.netlify.app/)
+- 📧 Email: [bhumikasigadapu3@gmail.com](mailto:bhumikasigadapu3@gmail.com)
 
-<a href="https://responsiveportfolio-bhumi.netlify.app/" target="blank"> 🌐 </a>
-
-
-</p>
 
 ---
 
@@ -75,4 +69,4 @@
 ---
 
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me. Let’s build something amazing together!
+Thank you for visiting my GitHub profile! Feel free to explore my repositories.
