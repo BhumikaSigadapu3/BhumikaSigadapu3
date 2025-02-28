@@ -15,19 +15,19 @@
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on **Virtual Pet Simulator** 
+- 🔭 I’m currently working on **On Campus Task Platform** 
 
-- 🌱 I’m currently learning **DSA, Secure software Engineering and Full stack web development**
+- 🌱 I’m currently learning **DSA, Secure software Engineering, Full stack web development, Competitive Programming and UI**
 
 - 👨‍💻 All of my projects are available at [https://responsiveportfolio-bhumi.netlify.app/](https://responsiveportfolio-bhumi.netlify.app/)
 
-- 💬 Ask me about **C++, Java, Python,Web dev, DSA and Database management**
+- 💬 Ask me about **C++, Java, Python, Web dev, DSA and Database management**
 
 - 📫 How to reach me **bhumikasigadapu3@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FVrNAU-BmIAZhklEHfYrB7xzz-p5tkTO/view?usp=sharing](https://drive.google.com/file/d/1FVrNAU-BmIAZhklEHfYrB7xzz-p5tkTO/view?usp=sharing)
 
-- ⚡ Fun Fact: **I'm participating in #6Companies30dayschallenge conducted by Arsh Goyal!**
+- ⚡ Fun Fact: **I'm doing UI, DSA, CP along with Web Development by managing College.**
 
 ---
 
