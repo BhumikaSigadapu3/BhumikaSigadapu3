@@ -15,19 +15,13 @@
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on **On Campus Task Platform** 
+- 🔭 I’m currently contributing to open source projects, deep diving into DSA, solving real world problems by creating websites integrating with AI.
 
 - 🌱 I’m currently learning **DSA, Secure software Engineering, Full stack web development, Competitive Programming and UI**
-
-- 👨‍💻 All of my projects are available at [https://responsiveportfolio-bhumi.netlify.app/](https://responsiveportfolio-bhumi.netlify.app/)
 
 - 💬 Ask me about **C++, Java, Python, Web dev, DSA and Database management**
 
 - 📫 How to reach me **bhumikasigadapu3@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FVrNAU-BmIAZhklEHfYrB7xzz-p5tkTO/view?usp=sharing](https://drive.google.com/file/d/1FVrNAU-BmIAZhklEHfYrB7xzz-p5tkTO/view?usp=sharing)
-
-- ⚡ Fun Fact: **I'm doing UI, DSA, CP along with Web Development by managing College.**
 
 ---
 
