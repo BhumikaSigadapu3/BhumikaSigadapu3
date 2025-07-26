@@ -15,11 +15,11 @@
 
 ## 🌟 About Me
 
-- 🔭 I’m currently contributing to open source projects, deep diving into DSA, solving real world problems by creating websites integrating with AI.
+- 🔭 I’m currently contributing to open source projects through GSSoC, deep diving into DSA, solving real world problems by creating websites integrating with AI/ML.
 
-- 🌱 I’m currently learning **DSA, Secure software Engineering, Full stack web development, Competitive Programming and UI**
+- 🌱 I’m currently learning **DSA, Secure software Engineering,Machine Learning, Full stack web development, Competitive Programming.**
 
-- 💬 Ask me about **C++, Java, Python, Web dev, DSA and Database management**
+- 💬 Ask me about **any technical question**.
 
 - 📫 How to reach me **bhumikasigadapu3@gmail.com**
 
