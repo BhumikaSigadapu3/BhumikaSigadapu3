@@ -59,9 +59,14 @@
 
 ---
 ## 📈 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhumikasigadapu3&show_icons=true&locale=en&layout=compact" alt="bhumikasigadapu3" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhumikasigadapu3&show_icons=true&locale=en" alt="bhumikasigadapu3" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhumikasigadapu3&show_icons=true&theme=radical&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikasigadapu3&layout=compact&theme=radical&cache_seconds=1800" />
+</p>
 
 ---
 
