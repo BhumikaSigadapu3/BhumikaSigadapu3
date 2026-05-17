@@ -6,7 +6,7 @@
 # 💻< Bhumika Sigadapu />
 ## 👋 Welcome to My GitHub
 
-<h3 align="center">Hi✨ , I'm a second-year B.Tech Computer Science and Engineering student specializing in Cybersecurity at the Indian Institute of Information Technology Kottayam. I'm passionate about using technology to tackle real-world challenges and drive impactful open-source contributions.</h3>
+<h3 align="center">Hi✨ , I'm a third-year B.Tech Computer Science and Engineering student specializing in Cybersecurity at the Indian Institute of Information Technology Kottayam. I'm passionate about using technology to tackle real-world challenges and drive impactful open-source contributions.</h3>
 <h6 align="center">A passionate Software Developer</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumikasigadapu3&label=Profile%20views&color=0e75b6&style=flat" alt="bhumikasigadapu3" /> </p>
@@ -15,9 +15,9 @@
 
 ## 🌟 About Me
 
-- 🔭 I’m currently contributing to open source projects through GSSoC, deep diving into DSA, solving real world problems by creating websites integrating with AI/ML.
+- 🔭 I’m currently deep diving into DSA, System Design, solving real world problems by creating websites integrating with AI/ML.
 
-- 🌱 I’m currently learning **DSA, Secure software Engineering,Machine Learning, Full stack web development, Competitive Programming.**
+- 🌱 I’m currently learning **DSA, Secure software Engineering, Deep Learning, Gen AI, Full stack web development, Competitive Programming.**
 
 - 💬 Ask me about **any technical question**.
 
@@ -30,8 +30,8 @@
 | Project Name                 | Description                                  | Tech Stack               | Status      |  
 | ---------------------------- | -------------------------------------------- | ------------------------ | ----------- | 
 | **EventureX**           | An Event and Club management system for a university (A team project) | Python, React, Flask, Bootstrap          | Completed |  
-| **My Portfolio**             | A website to showcase my projects and skills | SASS, Javascript, HTML  | Completed |  
-| **Quantum cryptanalysis of affine cipher(Research paper)** |  Simulation of modular arithmetic and Grover's search for breaking affine ciphers  | Python, Algorithm Optimization, Qiskit, LateX, Google cloud           | Completed   |  
+| **Assess HQ**             | Built an AI-powered hiring platform with coding assessments, leaderboards, and interview workflows using MERN and Judge0 | MERN, Docker, Judge0, OpenAI, Socket.IO  | Completed |  
+| **Finlytics** | A full-stack MERN expense tracker with secure JWT authentication, real-time analytics dashboards, and support for scheduled transactions for smarter financial management |  MERN, Tailwind, JWT, Docker, Recharts   | Completed   |  
 
 
 ---
@@ -41,7 +41,7 @@
 
 
 - 💼 LinkedIn: [linkedin.com/in/Bhumika](https://www.linkedin.com/in/bhumika-sigadapu-44b34a280/)
-- 🌐 Portfolio: [portfolio.com](https://responsiveportfolio-bhumi.netlify.app/)
+- 🌐 Portfolio: Incoming!!
 - 📧 Email: [bhumikasigadapu3@gmail.com](mailto:bhumikasigadapu3@gmail.com)
 
 
