@@ -58,6 +58,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -67,7 +68,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikasigadapu3&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
-
+-->
 ---
 
 
